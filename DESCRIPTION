@@ -1,0 +1,20 @@
+Package: vegtaxon
+Title: vegtaxon: Harmonising Species Names Among UK Vegetation Datasets
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Hannah",
+           family = "Risser",
+           role = c("aut", "cre"),
+           email = "hrisser@ceh.ac.uk",
+           comment = c(ORCID = "0000-0001-9819-1092"))
+Description: Developing models that include data from different sources is becoming an increasingly useful method in vegetation ecology. Methodological problems arise when integrating plant species lists compiled from different sources due to taxonomic changes. Accounting for these issues can be time consuming and necessitate the involvement of taxonomic experts. As part of a project integrating four long-term UK vegetation datasets (Countryside Survey, Environmental Change Network, Long Term Monitoring Network, and National Plant Monitoring Scheme) we have developed vegtaxon, an R package created to assist with the harmonisation of vegetation survey data from UK datasets. vegtaxon greatly reduces the time needed to process these data, allowing researchers to spend more time on analysis and interpretation. We hope this will encourage increased utilisation and integration of these datasets. We provide guidance on how to incorporate additional species lists into the package to allow integrated exploration with other datasets.
+License: CC BY 4.0
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
+Imports:
+	data.table (>= 1.9.4),
+	dplyr
