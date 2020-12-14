@@ -24,6 +24,14 @@ datasets. We provide guidance on how to incorporate additional species
 lists into the package to allow integrated exploration with other
 datasets.
 
+The values for CSM positives and negatives are currently of limited use
+for users outside of our UKCEH Integrated Modelling project. These
+values represent an aggregated value for CSM positive or negative for
+the following habitats: Lowland dry heath, Lowland raised bog and
+lowland blanket bog, Alpine dwarf-shrub heath, Upland blanket bog and
+valley bog. We aim to include CSM positive and negative indicator values
+for all habitats in further package updates.
+
 ## Installation
 
 You can install vegtaxon from <https://github.com/NERC-CEH/vegtaxon>
