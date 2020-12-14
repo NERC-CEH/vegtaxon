@@ -2,6 +2,10 @@
 #'
 #' This function allows you to join data from an external scheme
 #' to the integrated species dictionary.
+#'
+#' Please ensure that the vascular plant species names you attempt to join to the
+#' integrated species dictionary are in a column named "original_name". For example,
+#' to rename the first column in your dataset, run: names(yourdata)[1] <- "original_name"
 #' @keywords plants
 #' @export
 #' @examples
