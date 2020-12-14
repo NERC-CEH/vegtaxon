@@ -31,3 +31,9 @@ You can install vegtaxon from https://github.com/NERC-CEH/vegtaxon with:
 ``` r
 install_github("https://github.com/NERC-CEH/vegtaxon")
 ```
+
+## Accessing data
+
+To access and download data from the Countryside Survey, Environmental Change Network, or National Plant Monitoring Scheme, please go to https://eidc.ac.uk/.
+
+To access and download data from the Natural England Long Term Monitoring Network, please go to http://publications.naturalengland.org.uk/category/5316639066161152.
