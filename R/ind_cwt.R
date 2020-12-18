@@ -1,7 +1,7 @@
 #' ind_cwt Function
 #'
 #' This function allows you to calculate the cover-weighted indicator values for
-#' each plot. Currently includes Ellenberg N, R and W.
+#' each plot. Currently includes Ellenberg N, R and W/F.
 #' @keywords plants
 #' @export
 #' @examples

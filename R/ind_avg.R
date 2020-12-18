@@ -1,7 +1,9 @@
 #' ind_avg Function
 #'
 #' This function allows you to calculate the average indicator value for each
-#' plot. Currently includes Ellenberg N, R and W.
+#' plot. Currently includes Ellenberg N, R and W/F.
+#'
+#' Please ensure that your data contains the columns "site", "plot", and "year".
 #' @keywords plants
 #' @export
 #' @examples
