@@ -38,10 +38,10 @@ You can install vegtaxon from <https://github.com/NERC-CEH/vegtaxon>
 with:
 
 ``` r
-install_github("https://github.com/NERC-CEH/vegtaxon")
+devtools::install_github("https://github.com/NERC-CEH/vegtaxon")
 ```
 
-## Accessing data
+## Accessing scheme data
 
 To access and download data from the Countryside Survey, Environmental
 Change Network, or National Plant Monitoring Scheme, please go to
@@ -50,3 +50,17 @@ Change Network, or National Plant Monitoring Scheme, please go to
 To access and download data from the Natural England Long Term
 Monitoring Network, please go to
 <http://publications.naturalengland.org.uk/category/5316639066161152>.
+
+## Integrating external scheme data
+
+In some instances, you may use the ext\_join() function and find that
+some of your species names do not match up to those in our database.
+Should this happen, it may be possible to work through a similar name
+matching process to the one we used to create the data underpinning this
+package. This involves the use of the ‘Taxon name parser’ tool provided
+by the BSBI. To access this, users must request access to the BSBI
+Distribution Database (see <https://database.bsbi.org/>). We are
+currently updating the full documentation for this workflow, and aim to
+have it uploaded here in early 2021. In the short term, do get in touch
+if this is something you are interested in. I am happy to have a
+discussion and provide draft guidance.
