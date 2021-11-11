@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-![Image](vegtaxon_hex_sticker.png?raw=true "Optional Title")
+![Image](man/figures/vegtaxon_hex_sticker.png?raw=true)
 
 PLEASE NOTE: vegtaxon is currently under development.
 
