@@ -4,8 +4,11 @@
 # vegtaxon
 
 <!-- badges: start -->
-
 <!-- badges: end -->
+
+![Image](vegtaxon_hex_sticker.png?raw=true "Optional Title")
+
+PLEASE NOTE: vegtaxon is currently under development.
 
 Developing models that include data from different sources is becoming
 an increasingly useful method in vegetation ecology. Methodological
