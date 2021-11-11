@@ -8,7 +8,10 @@
 
 ![Image](man/figures/vegtaxon_hex_sticker.png?raw=true)
 
-PLEASE NOTE: vegtaxon is currently under development.
+PLEASE NOTE: vegtaxon 2.0 is currently under development and will be
+released soon. This update will expand the capabilities of the package
+by including more species and indicators. It will also provide extensive
+worked through examples.
 
 Developing models that include data from different sources is becoming
 an increasingly useful method in vegetation ecology. Methodological
